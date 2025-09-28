@@ -6,4 +6,5 @@ Dieses Repository enthält einige ergänzende Unterlagen und Beispielcode zur Vo
 
 Die Vorlesung ist in folgende Themenblöcke gegliedert:
 
-[Softwarearchitektur](src//Softwarearchitektur)
+### 1. Softwarearchitektur
+- [Objektorientierung](src/Objektorientierung)
