@@ -13,3 +13,7 @@ Die Vorlesung ist in folgende Themenblöcke gegliedert:
 ### 2. Datenformate und Standards
 - [Parsing](src/Parsing)
 - [Datenverarbeitung](src/Datenverarbeitung)
+
+### 3. Schnittstellen
+- [API-Anfrage](src/ApiAnfrage)
+- [MQTT-Verbindung](src/Mqtt)
