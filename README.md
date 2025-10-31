@@ -17,3 +17,6 @@ Die Vorlesung ist in folgende Themenblöcke gegliedert:
 ### 3. Schnittstellen
 - [API-Anfrage](src/ApiAnfrage)
 - [MQTT-Verbindung](src/Mqtt)
+
+### 4. Datenbanken
+- [SQLite Datenbank](src/SQLiteDatenbank)
